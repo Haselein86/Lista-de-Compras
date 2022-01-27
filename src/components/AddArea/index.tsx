@@ -24,7 +24,6 @@ export const AddArea = ({ onEnter }: Props) => {
             <div className="image"> ➕ </div>
 
             <input
-
                 type='text'
                 placeholder='Adicione uma Tarefa'
 
@@ -34,7 +33,6 @@ export const AddArea = ({ onEnter }: Props) => {
                 onKeyUp={HandleyKeyUp}
 
             ></input>
-
 
         </C.Container>
     )
