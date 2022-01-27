@@ -17,8 +17,8 @@ align-items: center;
 
 
 input {
-    width: 17px;
-    height: 17px;
+    width: 20px;
+    height: 20px;
     margin-right: 10px;
 }
 
